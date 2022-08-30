@@ -112,8 +112,8 @@ void main() {
   //   print('notEmpty');
   // }
 
-  var num = 0 / 0;
-  if (num.isNaN) {
-    print('not a number');
-  }
+  // var num = 0 / 0;
+  // if (num.isNaN) {
+  //   print('not a number');
+  // }
 }
